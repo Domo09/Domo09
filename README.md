@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/domo09/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/domo09c/configure-ad)
+  - [Virtual Machine Creation](https://github.com/Domo09/Virtual-Machine)
 
 
 <h2>🤳Connect with me:</h2>
